@@ -1,0 +1,17 @@
+#mport sys #importa módulo sys
+# sys.exit #sai do programa
+# print(sys.platform) # mostra se é windows
+
+# from sys import exit, platform #parte de um módulo
+# print(platform)
+
+# import sys as s # usa como alias 
+# sys = 'alguma coisa'
+# print(s.platform)
+
+# from sys import platform as pf, exit as ex
+# print(pf)
+
+# from sys import * #importa todos os nomes de sys, é má prática
+# print(platform)
+# exit()
